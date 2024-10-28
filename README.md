@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MalkALshami
 - 👀 I’m interested in Application Development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m Flutter Developer
 - 👀 I’m designer UI-UX
 - ✨ I’m Experience in software project analysis
 <!---
