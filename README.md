@@ -1,3 +1,5 @@
+<img src="https://github.com/MalkALshami/MalkALshami/blob/main/download.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+
 - 👋 Hi, I’m @MalkALshami
 - 👀 I’m interested in Application Development
 - 🌱 I’m Flutter Developer
